@@ -1,0 +1,40 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #15a640;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #91f4b5;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+form {
+    margin-bottom: 50px;
+    justify-content: space-evenly;
+}
+h1{
+font-size: larger;
+font-weight: lighter;
+font-family: 'Times New Roman', Times, serif; 
+}
+table, tr, th {
+    border: 1px solid;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+}
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: bold;
+}
+
+
+/* Add more styles as needed */
+
+/*Explanation: This bit of code should have added some default styling to the form with some margin at
+the bottom for better spacing.
+Test your changes and commit your work:
